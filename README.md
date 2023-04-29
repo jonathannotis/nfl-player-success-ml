@@ -19,7 +19,7 @@ The datasets used in this project can be found on [Github](https://github.com/nf
 - **Active Team:** The team a player is playing on for each of their first two years in the league. The format for these variables is `on_[]_year_[]`. The value representation for this set of variables is binary.
 - **Games:** The number of regular season games played in for each of a player's first two years in the league. The format for these variables is `games_year_[]`.
 - **Starts:** The number of regular season games a player is on the starting roster for in their first two years in the league. The format for these variables is `starts_year_[]`.
-- **Approximate Value:** Player's Approximate Value, as defined by the the [*Pro Football Reference*](https://www.pro-football-reference.com), for each of their firt two years.
+- **Approximate Value:** Player's Approximate Value, as defined by the the [*Pro Football Reference*](https://www.pro-football-reference.com), for each of their firt two years. The format for these variables is `value_year_[]`.
 
 ## Dependencies
 
